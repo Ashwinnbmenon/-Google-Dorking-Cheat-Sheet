@@ -1,4 +1,4 @@
-# -Google-Dorking-Cheat-Sheet
+# Google Dorking CheatSheet
 
 
 A powerful and clean **Google Dorks Cheat Sheet** formatted perfectly as a `README.md` for GitHub uploads.
